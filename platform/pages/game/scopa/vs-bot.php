@@ -1,3 +1,8 @@
+<?php
+    include '../communicating/neapolitan-deck-of-cards.php'
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +12,6 @@
     <title>Document</title>
 </head>
 <body>
-    sono scopa
+    
 </body>
 </html>

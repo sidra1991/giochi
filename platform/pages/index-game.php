@@ -12,7 +12,7 @@
         <div class="game-container"  >    
             <div class="game-card" >
                 <div class="img" >
-                    <a href="game/scopa.php"> <h2>scopa</h2> </a>
+                    <a href="game/scopa/scopa.php"> <h2>scopa</h2> </a>
                 </div>
             </div>
         </div>
