@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* home */
+
+.m-color{
+    background-color: #943E41;
+    height: 100vh;
+}
+
+.button-home{
+    border: 3px solid transparent;
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    background-color: #59B1EF;
+    margin: 1rem;
+    text-align: center;
+    font-size: 10rem;
+    box-shadow: 2px 5px gray;
+}
+
+.button-home:hover{
+    border: 3px solid black;
+    box-shadow: 0px 0px gray;
+}
+
+.menu-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #47E1FA;
+}
+
+a:visited{
+    color: #47E1FA;
+}
