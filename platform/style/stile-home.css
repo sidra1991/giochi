@@ -47,12 +47,34 @@ a:visited{
     color: #47E1FA;
 }
 
+/* index game */
+
 .game-card{
     width: 200px;
     height: 100px;
 }
 
-.game-card img{
+.img{
     width: 100%;
     height: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFN_pEH8zsBDV_zuOJdMrf3ojE4p3wzXY3Ag&usqp=CAU');
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    border: 1px solid transparent
+}
+
+.img:hover{
+    color: red;
+    border: 1px solid black;
+}
+
+.game-container{
+    width: 80%;
+    height: 100%;
+    padding-top: 10%;
+    padding-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
