@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.m-color{
+    background-color: #943E41;
+    height: 100vh;
+}
